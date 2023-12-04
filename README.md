@@ -8,24 +8,6 @@ Welcome to the classic game of Rock, Paper, Scissors implemented in Python witho
    ```bash
    git clone https://github.com/Seth-Keenan/RPS.git
    cd RPS
-   ```
-
-ChatGPT
-ChatGPT
-Certainly! Here's a simple README.md file for your text-based Rock Paper Scissors game in Python:
-
-markdown
-Copy code
-# Rock Paper Scissors (Text-based) in Python
-
-Welcome to the classic game of Rock, Paper, Scissors implemented in Python without any external dependencies.
-
-## How to Play
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Seth-Keenan/RPS.git
-   cd RPS
 
 1. Run the Game:
 Open your terminal and run the following command:
